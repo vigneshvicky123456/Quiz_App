@@ -116,7 +116,7 @@ To contribute to Quiz App, please follow these steps:
 - [React Redux Documentation](https://redux.js.org/basics/usagewithreact)
 
 ## Demo
-[Click here to Visit Site]().
+[Click here to Visit Site](https://almabetter-capstoneprojectquizapp.netlify.app/).
 
 ## License
 
